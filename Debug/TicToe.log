@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\jacob w\source\repos\tictoe\tictoe\main.cpp(16): warning C4101: 'placeIndexPosition': unreferenced local variable
+  TicToe.vcxproj -> C:\Users\Jacob W\source\repos\TicToe\Debug\TicToe.exe
